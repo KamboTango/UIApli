@@ -32,7 +32,7 @@ public class IUAplicacion{
 
 	static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 	static PrintStream out = System.out;	// variables objetos in y out para
-	 
+	 // ESTO ES UN CAMBIO PARA PROBAR GIT
 	
 	public static void main(String[] args)throws java.io.IOException{
 		
